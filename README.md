@@ -19,6 +19,11 @@ This package provides a wonderful **PHP Skeleton** to start building your next p
 composer create-project andalisolutions/package-skeleton-php --prefer-source PackageName
 ```
 
+🧹 Refactor your code with **Rector**:
+```bash
+composer refactor
+```
+
 🧹 Keep a modern codebase with **Pint**:
 ```bash
 composer lint
