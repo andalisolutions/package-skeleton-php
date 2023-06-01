@@ -13,4 +13,4 @@ final class Example
     {
         return 'bar';
     }
-}
+} 
